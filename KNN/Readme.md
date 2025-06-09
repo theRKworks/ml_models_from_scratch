@@ -18,7 +18,6 @@ In this project, I've implemented the **K-Nearest Neighbors (KNN)** algorithm en
 
 - ✅ KNN for binary and multi-class classification
 - ✅ Pure NumPy implementation
-- ✅ Visualize nearest neighbors with `matplotlib`
 - ✅ No external ML libraries used
 
 ---
