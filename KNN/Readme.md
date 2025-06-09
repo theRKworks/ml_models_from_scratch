@@ -28,4 +28,4 @@ In this project, I've implemented the **K-Nearest Neighbors (KNN)** algorithm en
 Install dependencies:
 
 ```bash
-pip install numpy matplotlib
+pip install numpy
