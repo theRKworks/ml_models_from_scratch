@@ -18,4 +18,3 @@
 
 ## 🧑‍💻 Author
  Rishi Kushwaha
- Department of Chemical Engineering, IIT Kharagpur
