@@ -17,5 +17,5 @@
 - -Understanding what happens behind sklearn.fit()
 
 ## 🧑‍💻 Author
-- Rishi Kushwaha
-- Department of Chemical Engineering, IIT Kharagpur
+ Rishi Kushwaha
+ Department of Chemical Engineering, IIT Kharagpur
